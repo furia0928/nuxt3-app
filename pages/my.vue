@@ -1,5 +1,5 @@
 <template>
-  my
+  my 2
 </template>
 <script>
 export default {
